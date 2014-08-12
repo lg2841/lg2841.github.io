@@ -3,10 +3,7 @@ layout: default
 title: lg2841 blog site based on github pages
 ---
 
-这个支持中文吗？
-Apache Buildr is a build system for Java-based applications, including support for Scala, Groovy and a growing number of JVM languages and tools.  We wanted something that's simple and intuitive to use, so we only need to tell it what to do, and it takes care of the rest.  But also something we can easily extend for those one-off tasks, with a language that's a joy to use.  And of course, we wanted it to be fast, reliable and have outstanding dependency management.
-# item 1
-# item 2
+我不想无病呻吟，但在这个本应不惑的年龄，我却开始陷入了迷茫。虽然我也知道人类一 思考，上帝就发笑。但如果真的失去了思考的能力，那人真的还能称之为人吗。
 
 
 h2(#why).  Why Buildr Rocks
