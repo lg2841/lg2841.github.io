@@ -1,13 +1,14 @@
 ---
 layout: default
-title: lg2841 blog site based on github pages
+title: 最前面的话
 ---
 
 我不想无病呻吟，但在这个本应不惑的年龄，我却开始陷入了迷茫。虽然我也知道人类一 思考，上帝就发笑。但如果真的失去了思考的能力，那人真的还能称之为人吗。
 
 
-h2(#why).  Why Buildr Rocks
+h2(#why).  近期计划
 
+最近希望能够完成
 "Daniel Spiewak":http://www.codecommit.com/blog:
 
 bq. If you think about it, the question isn’t “Why use Buildr?”, it’s really “Why use anything else?” The advantages afforded by Buildr are so substantial, I really can’t see myself going with any other tool, at least not when I have a choice.
